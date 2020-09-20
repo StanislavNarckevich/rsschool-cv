@@ -65,3 +65,7 @@ I have experience in developing a website for cms WordPress, I took part in a tr
 ## Education
 
 Self-education
+
+## English
+
+| **A2 (Pre-Intermediate)** | English test result |
